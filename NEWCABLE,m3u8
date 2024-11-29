@@ -768,6 +768,61 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15972
 #EXTINF:-1 channel-id="ESPN Deportes HD (3313).us" tvg-id="ESPN Deportes HD (3313).us" group-title="SPORTS" tvg-logo="https://seeklogo.com/images/E/espn-deportes-logo-5C44C905CD-seeklogo.com.png",ESPN DEPORTES HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15970
 
+
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1",PREMIER SPORTS 1
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25803
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1",PREMIER SPORTS 2
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25804
+
+#EXTINF:-1 channel-id="Sky Sports Action" tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SKY SPORTS ACTION
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20835
+
+#EXTINF:-1 channel-id="SkySportsCricket.uk" tvg-id="SkySportsCricket.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSCRICKET.png" group-title="SPORTS",SKY SPORTS CRICKET
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20834
+
+#EXTINF:-1 channel-id="SkySportsF1.uk" tvg-id="SkySportsF1.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSF1.png" group-title="SPORTS",SKY SPORTS F1
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20828
+
+#EXTINF:-1 channel-id="SkySportsFootball.uk" tvg-id="SkySportsFootball.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSFOOTBALL.png" group-title="SPORTS",SKY  SPORTS FOOTBALL
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20829
+
+#EXTINF:-1 channel-id="SkySportsMix.uk" tvg-id="SkySportsMix.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMIX.png" group-title="SPORTS",SKY SPORTS MIX
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20830
+
+#EXTINF:-1 channel-id="SkySportsPremierLeague.uk" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://lo1.in/LOGO/UK/SkyPREMIERLEAGUE.png" group-title="SPORTS",SKY SPORTS PREM LEAG
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20831
+
+#EXTINF:-1 channel-id="SkySportsGolf.uk" tvg-id="SkySportsGolf.uk" tvg-logo="https://lo1.in/LOGO/UK/skysportsgolf.png" group-title="SPORTS",SKY SPORTS GOLF
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20833
+
+#EXTINF:-1 channel-id="SkySportsMainEvent.uk" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMAINEVENT.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20832
+
+#EXTINF:-1 channel-id="SkySportsBoxOffice.uk" tvg-id="SkySportsBoxOffice.uk" tvg-name="SKY SPORTS Box Office" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSNEWS.png" group-title="SPORTS",SKY SPORTS Box Office
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20826
+
+#EXTINF:-1 channel-id="SkySportsNews.uk" tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSNEWS.png" group-title="SPORTS",Sky Sports News
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24302
+
+#EXTINF:-1 channel-id="SkySportsRacing.uk" tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://lo1.in/LOGO/UK/SkySportsRacing.png" group-title="SPORTS",SKY SPORTS Racing
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24303
+
+
+#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/W/WWE-logo-5569E9F466-seeklogo.com.png",WWE HD 
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/1587
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://deltafonts.com/wp-content/uploads/Tennis-Channel-logo.png",TENNIS CHANNEL 
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15880
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/RACING.png",RACING UK
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20812
+
 #EXTINF:-1 channel-id="TNTSports1.uk" tvg-id="TNTSports1.uk" group-title="SPORTS" tvg-logo="https://i.imgur.com/ZYZKKtv.png",BT SPORT 1 
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20821
 
@@ -857,56 +912,6 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WPIX.smil/playlist.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1",PREMIER SPORTS 1
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25803
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1",PREMIER SPORTS 2
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25804
-
-#EXTINF:-1 channel-id="Sky Sports Action" tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSACTION.png" group-title="SPORTS",SKY SPORTS ACTION
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20835
-
-#EXTINF:-1 channel-id="SkySportsCricket.uk" tvg-id="SkySportsCricket.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSCRICKET.png" group-title="SPORTS",SKY SPORTS CRICKET
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20834
-
-#EXTINF:-1 channel-id="SkySportsF1.uk" tvg-id="SkySportsF1.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSF1.png" group-title="SPORTS",SKY SPORTS F1
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20828
-
-#EXTINF:-1 channel-id="SkySportsFootball.uk" tvg-id="SkySportsFootball.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSFOOTBALL.png" group-title="SPORTS",SKY  SPORTS FOOTBALL
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20829
-
-#EXTINF:-1 channel-id="SkySportsMix.uk" tvg-id="SkySportsMix.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMIX.png" group-title="SPORTS",SKY SPORTS MIX
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20830
-
-#EXTINF:-1 channel-id="SkySportsPremierLeague.uk" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://lo1.in/LOGO/UK/SkyPREMIERLEAGUE.png" group-title="SPORTS",SKY SPORTS PREM LEAG
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20831
-
-#EXTINF:-1 channel-id="SkySportsGolf.uk" tvg-id="SkySportsGolf.uk" tvg-logo="https://lo1.in/LOGO/UK/skysportsgolf.png" group-title="SPORTS",SKY SPORTS GOLF
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20833
-
-#EXTINF:-1 channel-id="SkySportsMainEvent.uk" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSMAINEVENT.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20832
-
-#EXTINF:-1 channel-id="SkySportsBoxOffice.uk" tvg-id="SkySportsBoxOffice.uk" tvg-name="SKY SPORTS Box Office" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSNEWS.png" group-title="SPORTS",SKY SPORTS Box Office
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20826
-
-#EXTINF:-1 channel-id="SkySportsNews.uk" tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://lo1.in/LOGO/UK/SKYSPORTSNEWS.png" group-title="SPORTS",Sky Sports News
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24302
-
-#EXTINF:-1 channel-id="SkySportsRacing.uk" tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://lo1.in/LOGO/UK/SkySportsRacing.png" group-title="SPORTS",SKY SPORTS Racing
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24303
-
-
-#EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/RACING.png",RACING UK
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20812
 
 
 
@@ -1296,3 +1301,7 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/471429
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/471432
 #EXTINF:-1 group-title="USA" tvg-logo="https://pbs.twimg.com/profile_images/1111645514121007104/3hOCVlwO_400x400.png",HEROES & ICONS (US)
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/1022427
+
+
+
+
