@@ -7,7 +7,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="TTT Limited (Caribbean New Media Group) - TTTLIM.tt" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Caribbean Communications Network TV6 - CCNTV6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id=CCNTV6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Synergy TV - SYNERGY.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
