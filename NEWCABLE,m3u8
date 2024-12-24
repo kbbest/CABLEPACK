@@ -13,7 +13,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:-1 channel="SYNERGY.tt" group-title="ENTERTAINMENT" tvg-id="SYNERGY.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Tempo - TEMPO" tvg-id="Tempo - TEMPO.tt" tvg-name="TEMPO" tvg-logo="https://www.temponetworks.com/wp-content/uploads/2018/05/TEMPO-Logo-RGB-copy-300x300.png" group-title="ENTERTAINMENT",TEMPO
+#EXTINF:-1 channel-id="TEMPO.tt" tvg-id="TEMPO.tt" tvg-name="TEMPO" tvg-logo="https://www.temponetworks.com/wp-content/uploads/2018/05/TEMPO-Logo-RGB-copy-300x300.png" group-title="ENTERTAINMENT",TEMPO
 http://extraott.com:80/live/1577882060/3714659100/76411.m3u8
 
 
@@ -30,7 +30,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="Government Information Services Ltd. - GISL.tt" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Parliament of the Republic of Trinidad and Tobago - PARLTT.tt" tvg-id="Parliament of the Republic of Trinidad and Tobago - PARLTT.tt" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
+#EXTINF:-1 channel-id="PARCHAN.tt" tvg-id="PARCHAN.tt" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" tvg-id="BIZZ TV (Trinidad and Tobago) - MCTVTT" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
@@ -61,7 +61,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
 #EXTINF:-1 channel-id="ieTV Channel 1 - ieTV.tt" tvg-id="ieTV Channel 1 - ieTV.tt" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Ietv.jpg",IETV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:IETV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Islamic Broadcasting Network - IBN.tt" tvg-id="Islamic Broadcasting Network - IBN.tt" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
+#EXTINF:-1 channel-id="IBN.tt" tvg-id="IBN.tt" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:IBN.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="JAAGRITI TV - JAAGR.tt" tvg-id="JAAGRITI TV - JAAGR.tt" group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
@@ -70,13 +70,13 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:JAAGRITI.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Living Faith Network.tt" tvg-id="Living Faith Network.tt" group-title="RELIGION" tvg-logo="https://www.lyngsat.com/logo/tv/ll/living-faith-tv-us.png",LIVING FAITH
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:LIVING_FAITH.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Sankhya TV HDTV - SANKHYATV.tt" tvg-id="Sankhya TV HDTV - SANKHYATV.tt" group-title="Bollywood" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
+#EXTINF:-1 channel-id="SANKHYATV.tt" tvg-id="SANKHYATV.tt" group-title="Bollywood" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SANKHYA.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Trinity TV - Columbus - TTV.tt" tvg-id="Trinity TV - Columbus - TTV.tt" group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
+#EXTINF:-1 channel-id="TCN.tt" tvg-id="TCN.tt" group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Trinity Broadcasting Network - TBN.tt" tvg-id="Trinity Broadcasting Network - TBN.tt" group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
+#EXTINF:-1 channel-id="TBNHD.tt" tvg-id="TBNHD.tt" group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TBN.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="The Islamic Network - TIN.tt" tvg-id="The Islamic Network - TIN.tt" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/T.I.N.DarutTarbiyah.png/200px-T.I.N.DarutTarbiyah.png" The Islamin Network TIN 
@@ -94,13 +94,13 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Zee Cinema (Canada) - ZEECIN.tt" tvg-id="Zee Cinema (Canada) - ZEECIN.tt" group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png",ZEE CINEMA
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_CINEMA.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Zee World - ZEEWRL.tt" tvg-id="Zee World - ZEEWRL.tt" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
+#EXTINF:-1 channel-id="ZEEWRLD.ttt" tvg-id="ZZEEWRLD.tt" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEE_WORLD.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeBollywood.png", ZEE BOLLYWOOD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_BOLLYWOOD.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="ZeeTV Caribbean - Zee TV.tt" tvg-id="ZeeTV Caribbean - Zee TV.tt" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
+#EXTINF:-1 channel-id="ZEE.tt" tvg-id="ZEE.tt" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",ZING
@@ -273,10 +273,10 @@ https://cdn.klowdtv.net/803B48A/awe_aws_ms/AWE.m3u8?checkedby:iptvcat.com
 
 
 
-#EXTINF:-1 channel-id="Black Entertainment Television (Caribbean) - BET.tt" tvg-id="Black Entertainment Television (Caribbean) - BET.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
+#EXTINF:-1 channel-id="BETCAR.tt" tvg-id="BETCAR.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BET.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="BET Her Caribbean - BHER.tt" tvg-id="BET Her Caribbean - BHER.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
+#EXTINF:-1 channel-id="BHER.tt" tvg-id="BHER.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:CENTRIC.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="BET Jams (508).us" tvg-id="BET Jams (508).us" tvg-name="BET Jams" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/ZgN/ZgN_large.png" group-title="ENTERTAINMENT",BET Jams
@@ -296,7 +296,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:BOUNCE.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="Bravo HDTV (East) - BRAVOD.tt" tvg-id="Bravo HDTV (East) - BRAVOD.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",BRAVO
+#EXTINF:-1 channel-id="BRAVOHD.tt" tvg-id="BRAVOHD.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",BRAVO
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BRAVO.smil/playlist.m3u8
 
 
@@ -306,7 +306,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBS.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="The Cooking Channel - COOK.tt" tvg-id="The Cooking Channel - COOK.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CookingChannel.ca.png",COOKING
+#EXTINF:-1 channel-id="COOKHD.tt" tvg-id="COOKHD.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CookingChannel.ca.png",COOKING
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COOKING.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Discovery Caribbean - DISCAR.tt" tvg-id="Discovery Caribbean - DISCAR.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY
