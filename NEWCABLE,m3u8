@@ -24,7 +24,7 @@ http://extraott.com:80/live/1577882060/3714659100/76411.m3u8
 #EXTINF:-1 channel-id="Music and Entertainment Television - TTEN.tt" tvg-id="Music and Entertainment Television - TTEN.tt" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Gayelle the Channel HDTV - GAYELLE.tt" tvg-id="Gayelle the Channel HDTV - GAYELLE.tt" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
+#EXTINF:-1 channel-id="GAYELLE.tt" tvg-id="GAYELLE.tt" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="Government Information Services Ltd. - GISL.tt" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
@@ -134,12 +134,12 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609514
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" channel-id="" tvg-id="" tvg-name="NBA Tv" tvg-logo="http://stmgroup.xyz/logo/NBA.png",NBA TV
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12722
-
 #EXTINF:-1 channel-id="SportsMax 2 - SPTMAX2.tt" tvg-id="SportsMax 2 - SPTMAX2.tt" tvg-name="SPORTS MAX 2" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png" group-title="SPORTS",SPORT MAX 2
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 
+
+#EXTINF:-1 group-title="SPORTS" channel-id="" tvg-id="" tvg-name="NBA Tv" tvg-logo="http://stmgroup.xyz/logo/NBA.png",NBA TV
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12722
 
 
 #EXTINF:-1 channel-id="Al Jazeera (English - North America) - ALJAZEE.tt" tvg-id="Al Jazeera (English - North America) - ALJAZEE.tt" group-title="NEWS" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png",AlJazeera
