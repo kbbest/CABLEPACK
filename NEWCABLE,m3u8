@@ -130,11 +130,11 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Flow Sports (Caribbean) - FLSPS.tt" tvg-id="Flow Sports (Caribbean) - FLSPS.tt" tvg-name="Flow Sports" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png" group-title="SPORTS",Flow Sports
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609514
-#EXTINF:-1 channel-id="SportsMax (Non Jamaican Lineups) - SPMAX.tt" tvg-id="SportsMax (Non Jamaican Lineups) - SPMAX.tt" tvg-name="SPORTS MAX" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
+#EXTINF:-1 channel-id="SPMAXHD.tt" tvg-id="SPMAXHD.tt" tvg-name="SPORTS MAX" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="SportsMax 2 - SPTMAX2.tt" tvg-id="SportsMax 2 - SPTMAX2.tt" tvg-name="SPORTS MAX 2" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png" group-title="SPORTS",SPORT MAX 2
+#EXTINF:-1 channel-id="SPMX2HD.tt" tvg-id="SPMX2HD.tt" tvg-name="SPORTS MAX 2" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png" group-title="SPORTS",SPORT MAX 2
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 
 
