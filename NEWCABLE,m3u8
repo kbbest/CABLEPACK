@@ -191,13 +191,6 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CARTOON.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="Cartoonito International (Latin America - English) - CTNO.tt" tvg-id="Cartoonito International (Latin America - English) - CTNO.tt" tvg-name="Cartoonito" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="KIDS",Cartoonito
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609451
-
-
-
-
-
 
 
 
@@ -207,7 +200,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DISCOVERY_KIDS.smil/playlist.m3
 #EXTINF:-1 channel-id="Disney Channel (Multi Country - English) - Disney Cha.tt" tvg-id="Disney Channel (Multi Country - English) - Disney Cha.tt" group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEY.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Disney XD (East).tt" tvg-id="Disney XD (East).tt" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png",DISNEY XD
+#EXTINF:-1 channel-id="DXD.tt" tvg-id="DXD.tt" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png",DISNEY XD
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEYXD.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="NickJrEast.us" tvg-id="NickJrEast.us" group-title="KIDS" tvg-logo="https://static.epg.best/us/NickJr.us.png",NICK JR
@@ -229,9 +222,6 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SOAC.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/uG675tT.png" group-title="KIDS",Ryan and Friends 
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="NCMEducationalKidsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="KIDS",NCM Educational & Kids Channel
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
 
 
 
