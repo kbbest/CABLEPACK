@@ -79,7 +79,7 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 channel-id="TBNHD.tt" tvg-id="TBNHD.tt" group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TBN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="The Islamic Network - TIN.tt" tvg-id="The Islamic Network - TIN.tt" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/T.I.N.DarutTarbiyah.png/200px-T.I.N.DarutTarbiyah.png" The Islamin Network TIN 
+#EXTINF:-1 channel-id="The Islamic Network - TIN.tt" tvg-id="The Islamic Network - TIN.tt" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/T.I.N.DarutTarbiyah.png/200px-T.I.N.DarutTarbiyah.png",The Islamin Network TIN 
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TIN.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Three Angels Broadcasting Network - 3ABN.tt" tvg-id="Three Angels Broadcasting Network - 3ABN.tt" group-title="RELIGION" tvg-logo="https://static.epg.best/us/3ABN.us.png",3ABN
