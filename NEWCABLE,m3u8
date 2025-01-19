@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://www.bevy.be/generate/5HyabuxTBx.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/trinidad1.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/generate/5HyabuxTBx.xml"
 
 #EXTINF:-1 channel-id="CNC3.tt" tvg-id="CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
@@ -655,26 +656,6 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="Justice Central" tvg-id="Justice Central" group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",Justice Central
 https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.uk" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="MOVIES",Rakuten Action Movies 
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.uk" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="MOVIES",Rakuten Comedy Movies 
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.uk" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="MOVIES",Rakuten Family 
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightUK." tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="MOVIES",Rakuten Spotlight 
-https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMoviesFinland.fi" tvg-logo="https://i.imgur.com/6zpHj1M.png" group-title="MOVIES",Rakuten TV Draama
-https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMoviesFinland.fi" tvg-logo="https://i.imgur.com/HWugzhP.png" group-title="MOVIES",Rakuten TV Huippuelokuvat
-https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFinland.fi" tvg-logo="https://i.imgur.com/2B2p8zv.png" group-title="MOVIES",Rakuten TV Komedia
-https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesFinland.fi" tvg-logo="https://i.imgur.com/6vaHKgT.png" group-title="MOVIES",Rakuten TV Perhe
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVRakutenStoriesFinland.fi" tvg-logo="https://i.imgur.com/1Nj2RPk.png" group-title="MOVIES",Rakuten TV Rakuten Stories
-https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesFinland.fi" tvg-logo="https://i.imgur.com/AOvYC61.png" group-title="MOVIES",Rakuten TV Toiminta
-https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="ReelzChannel.us" tvg-id="ReelzChannel.us" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",ReelzChannel
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:REEL.smil/playlist.m3u8
