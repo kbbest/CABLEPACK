@@ -187,9 +187,11 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ANIMAL_PLANET.smil/playlist.m3u
 #EXTINF:-1 channel-id="BABY1.tt" tvg-id="BABY1.tt" group-title="KIDS" tvg-logo="https://static.epg.best/gb/BabyTV.uk.png",BABY TV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="BABY1.tt" tvg-id="BABY1.tt" group-title="KIDS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BABYFIRST.png",Baby_First
+#EXTINF:-1 channel-id="BA" tvg-id="BABY" group-title="KIDS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BABYFIRST.png",Baby_First
 http://hdhd.tk:80/stevecooper3/stevecooper3/19910
 
+#EXTINF:-1,channel-id="" tvg-id= tvg-name= tvg-logo="https://lo1.in/LOGO/US/USAKIDSANDFAMLIY/UNIVERSALKIDS.png" group-title="KIDS",Universal Kids (East)
+http://hdhd.tk:80/stevecooper3/stevecooper3/451
 
 #EXTINF:-1 channel-id="TOONHD.tt" tvg-id="TOONHD.tt" group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON Network
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CARTOON.smil/playlist.m3u8
@@ -760,6 +762,23 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24302
 
 #EXTINF:-1 channel-id="SkySportsRacing.uk" tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS Racing" tvg-logo="https://lo1.in/LOGO/UK/SkySportsRacing.png" group-title="SPORTS",SKY SPORTS Racing
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24303
+
+
+
+
+
+#EXTINF:-1 channel-id="" tvg-id= tvg-name= tvg-logo="https://lo1.in/LOGO/CANADA/TSN1.png" group-title="SPORTS",TSN 1
+http://hdhd.tk:80/stevecooper3/stevecooper3/18708
+#EXTINF:-1 channel-id="" tvg-id= tvg-name= tvg-logo="https://lo1.in/LOGO/CANADA/TSN2.png" group-title="SPORTS",TSN 2 
+http://hdhd.tk:80/stevecooper3/stevecooper3/18709
+#EXTINF:-1 channel-id="" tvg-id= tvg-name= tvg-logo="https://lo1.in/LOGO/CANADA/TSN3.png" group-title="SPORTS",TSN 3 
+http://hdhd.tk:80/stevecooper3/stevecooper3/18710
+#EXTINF:-1 channel-id="" tvg-id= tvg-name= tvg-logo="https://lo1.in/LOGO/CANADA/TSN4.png" group-title="SPORTS",TSN 4 
+http://hdhd.tk:80/stevecooper3/stevecooper3/18711
+#EXTINF:-1 channel-id="" tvg-id= tvg-name= tvg-logo="https://lo1.in/LOGO/CANADA/TSN5.png" group-title="SPORTS",TSN 5
+http://hdhd.tk:80/stevecooper3/stevecooper3/18712
+
+
 
 
 #EXTINF:-1 channel-id="" tvg-id="" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid
