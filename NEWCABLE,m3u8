@@ -187,6 +187,10 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ANIMAL_PLANET.smil/playlist.m3u
 #EXTINF:-1 channel-id="BABY1.tt" tvg-id="BABY1.tt" group-title="KIDS" tvg-logo="https://static.epg.best/gb/BabyTV.uk.png",BABY TV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
 
+#EXTINF:-1 channel-id="BABY1.tt" tvg-id="BABY1.tt" group-title="KIDS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BABYFIRST.png",Baby_First
+http://hdhd.tk:80/stevecooper3/stevecooper3/19910
+
+
 #EXTINF:-1 channel-id="TOONHD.tt" tvg-id="TOONHD.tt" group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON Network
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CARTOON.smil/playlist.m3u8
 
