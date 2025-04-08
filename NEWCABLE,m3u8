@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/trinidad1.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/trinidad1.xml, https://www.open-epg.com/generate/5HyabuxTBx.xml"
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
