@@ -125,6 +125,22 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BRAVO.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CookingChannel.ca.png",COOKING
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COOKING.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT",CALA BASH
+https://starshare.org:443/live/Sbu/Sbu/154295.ts
+#EXTINF:-1 group-title="ENTERTAINMENT",CALA CLASSIC
+https://starshare.org:443/live/Sbu/Sbu/154296.ts
+#EXTINF:-1 group-title="ENTERTAINMENT",CALA WEATHER
+https://starshare.org:443/live/Sbu/Sbu/154297.ts
+#EXTINF:-1 group-title="ENTERTAINMENT",CALA WESTERN
+https://starshare.org:443/live/Sbu/Sbu/154298.ts
+#EXTINF:-1 group-title="ENTERTAINMENT",CARS
+https://starshare.org:443/live/Sbu/Sbu/154299.ts
+
+
+
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/DiscoveryHomeHealth.ar.png",DISCOVERY HOME HEALTH
