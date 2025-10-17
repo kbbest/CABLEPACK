@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/trinidad1.xml, https://www.open-epg.com/generate/5HyabuxTBx.xml"
 
-#EXTINF:-1 group-title="PLAYLIST UPDATED" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CAT DELUXE LIST 
+#EXTINF:-1 group-title="PLAYLIST UPDATED" tvg-logo="https://github.com/kbbest/CABLEPACK/blob/main/images.jpeg",CAT DELUXE LIST 
 https://github.com/kbbest/CABLEPACK/raw/refs/heads/main/UPDATE%20COMPLETED%20SUCCESSFULLY%20Scrolling%20Red%20Dot%20Matrix%20LED%20Text%20Animation%20on%20Green%20Screen%20Seamless%20Loop%2071281856%20Stock%20Video%20at%20Vecteezy.mp4
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
