@@ -165,6 +165,102 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PBS.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:SCIENCE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBC.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="DELUXE",UK: SKY CINEMA ACTION FHD
+http://1tv41.icu:8080/47273784/47273784/35254
+#EXTINF:-1 group-title="DELUXE",UK MOVIES: SKY CINEMA DRAMA
+http://1tv41.icu:8080/47273784/47273784/35251
+#EXTINF:-1 group-title="DELUXE",UK Sky Cinema Scifi & Horror FHD
+http://1tv41.icu:8080/47273784/47273784/35248
+#EXTINF:-1 group-title="DELUXE",UK MOVIES: SKY COMEDY
+http://1tv41.icu:8080/47273784/47273784/35253
+#EXTINF:-1 group-title="DELUXE",UK MOVIES: SKY CRIME THRILLER
+http://1tv41.icu:8080/47273784/47273784/35252
+#EXTINF:-1 group-title="DELUXE",UK MOVIES: SKY GREATS
+http://1tv41.icu:8080/47273784/47273784/35249
+#EXTINF:-1 group-title="DELUXE",UK-Sky Cinema Premier
+http://1tv41.icu:8080/47273784/47273784/35256
+#EXTINF:-1 group-title="DELUXE",US SONY Movies FHD
+http://1tv41.icu:8080/47273784/47273784/2214
+#EXTINF:-1 group-title="DELUXE",US Lifetime Movies
+http://1tv41.icu:8080/47273784/47273784/20863
+#EXTINF:-1 group-title="DELUXE",US STARZ ENCORE Black
+http://1tv41.icu:8080/47273784/47273784/16141
+#EXTINF:-1 group-title="DELUXE",USA:  Showtime NEXT
+http://1tv41.icu:8080/47273784/47273784/9316
+#EXTINF:-1 group-title="DELUXE",USA:  STARZ EDGE
+http://1tv41.icu:8080/47273784/47273784/16143
+#EXTINF:-1 group-title="DELUXE",US 5 StarMax
+http://1tv41.icu:8080/47273784/47273784/13381
+#EXTINF:-1 group-title="DELUXE",US ActionMAX (East)
+http://1tv41.icu:8080/47273784/47273784/21013
+#EXTINF:-1 group-title="DELUXE",US Cinemax (East)
+http://1tv41.icu:8080/47273784/47273784/13380
+#EXTINF:-1 group-title="DELUXE",US EPIX (East)
+http://1tv41.icu:8080/47273784/47273784/13214
+#EXTINF:-1 group-title="DELUXE",US Epix Drive IN (S)
+http://1tv41.icu:8080/47273784/47273784/14193
+#EXTINF:-1 group-title="DELUXE",USA: Epix Hits
+http://1tv41.icu:8080/47273784/47273784/12744
+#EXTINF:-1 group-title="DELUXE",US EPIX2 (East)
+http://1tv41.icu:8080/47273784/47273784/12730
+#EXTINF:-1 group-title="DELUXE",US HBO
+http://1tv41.icu:8080/47273784/47273784/9264
+#EXTINF:-1 group-title="DELUXE",US HBO 2 (A)
+http://1tv41.icu:8080/47273784/47273784/9816
+#EXTINF:-1 group-title="DELUXE",US HBO Comedy (East)
+http://1tv41.icu:8080/47273784/47273784/17773
+#EXTINF:-1 group-title="DELUXE",US HBO Family (East)
+http://1tv41.icu:8080/47273784/47273784/17772
+#EXTINF:-1 group-title="DELUXE",US HBO SIGNATURE (East)
+http://1tv41.icu:8080/47273784/47273784/9266
+#EXTINF:-1 group-title="DELUXE",US HBO Zone (East)
+http://1tv41.icu:8080/47273784/47273784/9265
+#EXTINF:-1 group-title="DELUXE",US HDNET MOVIES
+http://1tv41.icu:8080/47273784/47273784/16265
+#EXTINF:-1 group-title="DELUXE",US More Max
+http://1tv41.icu:8080/47273784/47273784/17776
+#EXTINF:-1 group-title="DELUXE",US MovieMAX (East)
+http://1tv41.icu:8080/47273784/47273784/13480
+#EXTINF:-1 group-title="DELUXE",US MoviePlex (East)
+http://1tv41.icu:8080/47273784/47273784/1829
+#EXTINF:-1 group-title="DELUXE",US Cinemax Outermax (X)
+http://1tv41.icu:8080/47273784/47273784/21012
+#EXTINF:-1 group-title="DELUXE",US RetroPlex (East)
+http://1tv41.icu:8080/47273784/47273784/66379
+#EXTINF:-1 group-title="DELUXE",US Showtime East
+http://1tv41.icu:8080/47273784/47273784/46214
+#EXTINF:-1 group-title="DELUXE",US Showtime 2 (East) (H)
+http://1tv41.icu:8080/47273784/47273784/13219
+#EXTINF:-1 group-title="DELUXE",US Showtime Extreme (East) (SP)
+http://1tv41.icu:8080/47273784/47273784/13220
+#EXTINF:-1 group-title="DELUXE",US Showtime Family Zone (East)
+http://1tv41.icu:8080/47273784/47273784/13481
+#EXTINF:-1 group-title="DELUXE",US Showtime Women (East)
+http://1tv41.icu:8080/47273784/47273784/17778
+#EXTINF:-1 group-title="DELUXE",US Starz Cinema (East)
+http://1tv41.icu:8080/47273784/47273784/17775
+#EXTINF:-1 group-title="DELUXE",US Starz Cinema (East)
+http://1tv41.icu:8080/47273784/47273784/9301
+#EXTINF:-1 group-title="DELUXE",US Starz East (S)
+http://1tv41.icu:8080/47273784/47273784/9299
+#EXTINF:-1 group-title="DELUXE",US Starz Encore Westerns (East)
+http://1tv41.icu:8080/47273784/47273784/16263
+#EXTINF:-1 group-title="DELUXE",US Starz in Black (East)
+http://1tv41.icu:8080/47273784/47273784/17779
+#EXTINF:-1 group-title="DELUXE",US Starz West (S)
+http://1tv41.icu:8080/47273784/47273784/21091
+#EXTINF:-1 group-title="DELUXE",US ThrillerMax (East)
+http://1tv41.icu:8080/47273784/47273784/17774
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="DELUXE" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",Hallmark Channel
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:-1 group-title="DELUXE" tvg-logo="https://static.epg.best/us/HallmarkMoviesMysteries.us.png",Hallmark Mov Mys
