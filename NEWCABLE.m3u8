@@ -56,10 +56,6 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZING.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
-http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png",SPORT MAX 2
-http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stmgroup.xyz/logo/NBA.png",NBA TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png",AlJazeera
