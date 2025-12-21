@@ -357,7 +357,6 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WPIX.smil/playlist.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="action.fr" tvg-name="Netflix_action 1 HD" tvg-logo="" group-title="✯NETFLIX✯ 24/7",Netflix_action 1 HD
 http://filex.me:8080//live/Ghosia104/pathan104/455979.ts
 #EXTINF:-1 tvg-id="action.fr" tvg-name="Netflix_action 2 HD" tvg-logo="" group-title="✯NETFLIX✯ 24/7",Netflix_action 2 HD
