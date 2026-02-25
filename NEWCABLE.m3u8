@@ -9,17 +9,17 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:-1 channel-id="SYNERGY.tt" tvg-id="SYNERGY.tt" group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
-#EXTINF:-1 channel-id="CNC3.tt" tvg-id="CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
-#EXTINF:-1 channel-id="CNC3.tt" tvg-id="CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
-#EXTINF:-1 channel-id="CNC3.tt" tvg-id="CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
-#EXTINF:-1 channel-id="CNC3.tt" tvg-id="CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
+#EXTINF:-1 channel-id="PARCHAN.tt" tvg-id="PARCHAN.tt" group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
-#EXTINF:-1 channel-id="CNC3.tt" tvg-id="CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
-#EXTINF:-1 channel-id="CNC3.tt" tvg-id="CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/bbest1716/67uyuyuyuyuyuyuyuy/refs/heads/main/Imge%20logo/wesn_logo.6a0d578ac2656880f39d.png",WESN
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/bbest1716/67uyuyuyuyuyuyuyuy/refs/heads/main/Imge%20logo/wesn_logo.6a0d578ac2656880f39d.png",WESN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Ietv.jpg",IETV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:IETV.smil/playlist.m3u8
